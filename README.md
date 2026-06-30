@@ -1,4 +1,4 @@
-# space_shoother.python
+
 import pygame
 import random
 import sys
